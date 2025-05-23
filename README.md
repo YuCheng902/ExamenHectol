@@ -1,0 +1,2 @@
+# ExamenHectol
+Ejercico practica 
